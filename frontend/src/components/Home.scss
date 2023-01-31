@@ -1,0 +1,20 @@
+.detalis{
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.phoneCard{
+    transition: 0.5s;
+    background-color: #fff;
+
+    &:hover{
+       transform: scale(0.9);
+       
+
+    }
+}
+
+.spinner-height{
+    height: 100vh;
+}
+
