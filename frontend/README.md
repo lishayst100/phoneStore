@@ -4,8 +4,9 @@ My name is Lishay Shem Tov and this is my middle project in React,
 The idea of my project was actually to make an online store for buying phones and also to upload second hand products for sale on a dedicated page.
 I used several tools and they are: react redux javascript and sass
 To set up an api for myself I used node.js.
-To run the project, go to the backend folder and run the "nodemon" command in the terminal.
-Then, to run the project and see it, enter the "frontend" folder and run the "npm start" command.
+To run the project, 
+go to the backend folder and run the command 'npm i express cors nodemon' and after it run the command 'nodemon' in the terminal.
+Then, to run the project and see it, enter the "frontend" folder and run the "npm i" command and after it "npm start".
 
 ### Home page:
 
